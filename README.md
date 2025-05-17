@@ -8,7 +8,7 @@ I am a PhD candidate at NYU. My primary research interests are in the fields of 
   <img src="Images/latex.png" alt="LaTeX" width="50" height="50"/>
   <img src="Images/matlab.jpeg" alt="MATLAB" width="50" height="50"/>
   <img src="Images/python.jpeg" alt="Python" width="50" height="50"/>
-  <img src="Images/visual_studio.jpeg" alt="Visual Studio" width="50" height="50"/>
+  <img src="Images/visual studio.jpeg" alt="Visual Studio" width="50" height="50"/>
 </p>
 <!--
 **omidemam/omidemam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
