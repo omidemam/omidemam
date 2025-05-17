@@ -1,6 +1,18 @@
-## 👩🏻‍💻 About me
-I am a PhD candidate at NYU. My primary research interests are in the fields of flood risk analysis, large-scale hydrologic modeling, and statistical techniques.
+## 👋 Hi there! I'm Omid Emamjomehzadeh 
 
+🎓 I’m a **Ph.D. candidate** at **New York University (NYU)**  
+💧 My work focuses on **flood risk analysis**, **large-scale hydrologic modeling**, and **statistical techniques**
+
+---
+
+### 🚀 Research & Interests
+
+- 🌊 Urban & agricultural water management
+- 🏙️ Designing **next-generation stormwater infrastructure**
+- 🌧️ Building **resilient and robust urban water systems**
+- 📊 Statistical & AI-driven approaches to hydrology
+
+---
 ## 🚀  Languages and Tools
 <p align="left">
   <img src="Images/anaconda.png" alt="Anaconda" width="50" height="50"/>
@@ -10,17 +22,19 @@ I am a PhD candidate at NYU. My primary research interests are in the fields of 
   <img src="Images/python.jpeg" alt="Python" width="50" height="50"/>
   <img src="Images/visual studio.jpeg" alt="Visual Studio" width="50" height="50"/>
 </p>
+
+---
+
+### 🤝 Let’s connect
+
+- 📫 Reach me at: [omid.emamjomehzadeh@nyu.edu]  
+
+---
+
+### 😄 Pronouns: He/Him 
+
+### ⚡ Fun fact: I love replicating animal sounds like cats and goats! 🐱🐐
+
+
 <!--
 **omidemam/omidemam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
