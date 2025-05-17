@@ -13,7 +13,7 @@
 - 📊 Statistical & AI-driven approaches to hydrology
 
 ---
-## 🚀  Languages and Tools
+### 🚀  Languages and Tools
 <p align="left">
   <img src="Images/anaconda.png" alt="Anaconda" width="50" height="50"/>
   <img src="Images/jupyter.png" alt="Jupyter" width="50" height="50"/>
