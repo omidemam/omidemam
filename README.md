@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## About me 👋
+I am a PhD candidate at NYU. My primary research interests are in the fields of flood risk analysis, large-scale modeling, and statistical techniques.
 <!--
 **omidemam/omidemam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
