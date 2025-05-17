@@ -2,7 +2,14 @@
 I am a PhD candidate at NYU. My primary research interests are in the fields of flood risk analysis, large-scale hydrologic modeling, and statistical techniques.
 
 ## 🚀  Languages and Tools
-
+<p align="left">
+  <img src="images/anaconda.png" alt="Anaconda" width="50" height="50"/>
+  <img src="images/jupyter.png" alt="Jupyter" width="50" height="50"/>
+  <img src="images/latex.png" alt="LaTeX" width="50" height="50"/>
+  <img src="images/matlab.jpeg" alt="MATLAB" width="50" height="50"/>
+  <img src="images/python.jpeg" alt="Python" width="50" height="50"/>
+  <img src="images/visual_studio.jpeg" alt="Visual Studio" width="50" height="50"/>
+</p>
 <!--
 **omidemam/omidemam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
