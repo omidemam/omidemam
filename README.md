@@ -21,12 +21,13 @@
 ---
 ### 🚀  Languages and Tools
 <p align="left">
+  
+  <img src="Images/python.jpeg" alt="Python" width="50" height="50"/>
+  <img src="Images/matlab.jpeg" alt="MATLAB" width="50" height="50"/>
   <img src="Images/anaconda.png" alt="Anaconda" width="50" height="50"/>
   <img src="Images/jupyter.png" alt="Jupyter" width="50" height="50"/>
-  <img src="Images/latex.png" alt="LaTeX" width="50" height="50"/>
-  <img src="Images/matlab.jpeg" alt="MATLAB" width="50" height="50"/>
-  <img src="Images/python.jpeg" alt="Python" width="50" height="50"/>
   <img src="Images/visual studio.jpeg" alt="Visual Studio" width="50" height="50"/>
+  <img src="Images/latex.png" alt="LaTeX" width="50" height="50"/>
 </p>
 
 ---
