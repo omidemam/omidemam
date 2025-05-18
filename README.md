@@ -1,7 +1,9 @@
 ## 👋 Hi there! I'm Omid Emamjomehzadeh 
 
 🎓 I’m a **Ph.D. candidate** at **New York University (NYU)**  
+
 💧 My Ph.D. project focuses on **flood risk analysis**, **large-scale hydrologic modeling**, and **statistical techniques**.
+
 🧰 I have worked on **urban** and **agricultural water management**, leveraging **agent-based modeling with reinforcement learning (RL)**, **machine learning (ML) surrogate modeling**, and **uncertainty analysis** to **develop robust and resilient decision support systems**. 🌊
 
 
