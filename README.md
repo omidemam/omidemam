@@ -15,7 +15,7 @@
 
 - 🌊 Urban & agricultural water management
 - 🏙️ **Risk analysis** of **stormwater systems**
-- 🌧️ **resilient and robust water systems**
+- 🌧️ **Resilient and robust water systems**
 - 📊 **Statistical & data-driven** approaches to hydrology
 
 ---
