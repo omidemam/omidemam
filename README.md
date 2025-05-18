@@ -14,8 +14,8 @@
 ### 🔬 Research & Interests
 
 - 🌊 Urban & agricultural water management
-- 🏙️ Design and risk analysis of **stormwater systems**
-- 🌧️ Building **resilient and robust urban water systems**
+- 🏙️ **Risk analysis** of **stormwater systems**
+- 🌧️ **resilient and robust water systems**
 - 📊 **Statistical & data-driven** approaches to hydrology
 
 ---
