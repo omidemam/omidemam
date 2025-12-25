@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Omid Emamjomehzadeh 
 
-🎓 I’m a **Ph.D. candidate** at **New York University (NYU)** . 
+🎓 I’m a **research assistant** at **New York University (NYU)** . 
 
 💧 My Ph.D. project focuses on **flood risk analysis**, **large-scale hydrologic modeling**, and **statistical techniques**.
 
